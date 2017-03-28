@@ -1,0 +1,4 @@
+To make the executable use the command
+
+gfortran -O analyser.f -o analyser
+
